@@ -18,7 +18,7 @@ pip3 install -r requirements.txt
 
 - 获取AK
 
-访问KMind进入kOS控制台，找到API设置，或者直接访问URL: https://kmind.com/setting/api_setting
+访问KMind进入kOS控制台，找到API设置，或者直接访问URL: https://kmind.com/workbench/act_list 点击左下角个人头像进入API设置
 
 ![ak](https://github.com/KMind-Inc/k-Find/blob/main/assets/ak.png?raw=true)
 
