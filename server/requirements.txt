@@ -1,0 +1,6 @@
+requests
+python-dotenv
+tld==0.13
+flask
+loguru
+flask_cors
