@@ -20,7 +20,7 @@ def fetch_data(payload):
                     logger.error(f"Unicode decode error: {e}")
                     pass
 
-@app.route('/start', methods=["GET", "OPTIONS"])
+@app.route('/stream', methods=["GET", "OPTIONS"])
 def start():
     if request.method == "OPTIONS":
         return Response(status=200)

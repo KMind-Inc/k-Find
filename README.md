@@ -8,6 +8,11 @@ A new generation of search engines, bringing together depth and speed to provide
 
 ## Setup
 
+### Docker-Compose
+```shell
+docker-compose up --build
+```
+
 ### Manual
 1. install requirements.txt
 ```shell

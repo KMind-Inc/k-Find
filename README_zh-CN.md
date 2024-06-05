@@ -8,6 +8,11 @@
 
 ## 部署
 
+### Docker-Compose
+```shell
+docker-compose up --build
+```
+
 ### 手动部署
 1. 安装 requirements.txt
 ```shell
@@ -29,7 +34,6 @@ cd server && vim .env
 - 文件示例如下
 ```shell
 PORT = 8081
-WORKERS = 1
 API_URL = https://api.kmind.com/kmind/api/act
 ACCESS_KEY = 
 ACCESS_SECRET_KEY = 
