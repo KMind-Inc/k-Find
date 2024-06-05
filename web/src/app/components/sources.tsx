@@ -48,14 +48,14 @@ const SourceItem: FC<SourceItemProps> = ({ source, index }) => {
 
   return (
     <div className="relative flex items-center gap-1">
-      <div className="flex items-center text-gray-500 justify-center h-4 w-4 text-sm">
+      <div className="flex-shrink-0 text-gray-500 justify-center h-4 w-4 text-sm">
         {index + 1}.
       </div>
-      <div className="overflow-hidden text-gray-500 whitespace-nowrap text-sm">
+      <div className="flex items-center text-gray-500 text-sm">
         {title}
+        <img src="link.svg" alt="Link" width={12} height={12} className="ml-1" />
       </div>
       <a href={url} onClick={handleClick} target="_blank" className="absolute inset-0"></a>
-      <img src="link.svg" alt="Link" width={12} height={12} />
     </div>
   );
 };

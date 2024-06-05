@@ -31,13 +31,13 @@ export default function Home() {
         <Search></Search>
         <div className="flex flex-col gap-1.5">
           <div className="flex gap-1 flex-wrap justify-right">
-            <HotSpot query="美国阿波罗登月造假?" />
-            <HotSpot query="胖猫事件惊天大反转！谭竹被冤枉，姐姐引导舆论?" />
-            <HotSpot query="伊朗总统坠机身亡，事件时间线?" />
+            <HotSpot query="这些涉及高考的谣言都别信" />
+            <HotSpot query="端午粽体检报告" />
+            <HotSpot query="2024年高考第一个丢准考证的同学" />
           </div>
           <div className="flex gap-1 flex-wrap justify-right">
-            <HotSpot query="《庆余年2》在线播放地址?" />
-            <HotSpot query="特斯拉将在华建立自动驾驶数据中心?" />
+            <HotSpot query="专家回应女装越做越小" />
+            <HotSpot query="CBD的午餐打工人吃不起?" />
             <HotSpot query="全网一周热点事件梳理，时间线、观点一键打尽" />
           </div>
         </div>

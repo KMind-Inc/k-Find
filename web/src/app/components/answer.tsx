@@ -7,11 +7,10 @@ import { AnimationEffect } from "@/app/components/animation-effect";
 import { Wrapper } from "@/app/components/wrapper";
 import { Source } from "@/app/global/source";
 import Image from "next/image";
-import { FC, useRef } from "react";
+import { FC } from "react";
 import Markdown from "react-markdown";
-import { fetchEventSource } from "@microsoft/fetch-event-source";
 import Locale from "../locales";
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 
 export const Answer: FC<{ markdown: string; sources: Source[] }> = ({
   markdown,

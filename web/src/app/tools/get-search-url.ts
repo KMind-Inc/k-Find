@@ -1,5 +1,5 @@
 export const getSearchUrl = (query: string, search_uuid: string, search_type: string) => {
   const prefix =
-    process.env.NODE_ENV === "production" ? "/search.html" : "/search";
+    process.env.NODE_ENV === "production" ? "/search" : "/search";
   return `${prefix}?q=${encodeURIComponent(query)}&search_type=${search_type}&rid=${search_uuid}`;
 };

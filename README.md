@@ -54,3 +54,4 @@ cd web && npm install && npm run dev
 
 This project is maintained by the KMind team, you can contact us by:
 * Email: developer@kmind.com
+![wechat](https://github.com/KMind-Inc/k-Find/blob/main/assets/wechat.jpeg?raw=true)
