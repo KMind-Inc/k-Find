@@ -55,7 +55,7 @@ cd web && npm install && npm run dev
 cd mimi-program
 ```
 
-![mini-program](https://github.com/KMind-Inc/k-Find/blob/main/assets/mini-program.png?raw=true =365x792)
+<img src="https://github.com/KMind-Inc/k-Find/blob/main/assets/mini-program.png?raw=true" width="365" height="792">
 
 ## Contacts
 
