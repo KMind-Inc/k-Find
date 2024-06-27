@@ -1,0 +1,3 @@
+<view>
+    <web-view bindmessage="{{b}}" sandbox="allow-scripts allow-downloads" src="{{a}}"></web-view>
+</view>
