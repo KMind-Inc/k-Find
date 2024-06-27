@@ -55,10 +55,11 @@ cd web && npm install && npm run dev
 cd mimi-program
 ```
 
-![mini-program](https://github.com/KMind-Inc/k-Find/blob/main/assets/mini-program.png?raw=true)
+![mini-program](https://github.com/KMind-Inc/k-Find/blob/main/assets/mini-program.png?raw=true =365x792)
 
 ## Contacts
 
 This project is maintained by the KMind team, you can contact us by:
 * Email: developer@kmind.com
+
 ![wechat](https://github.com/KMind-Inc/k-Find/blob/main/assets/wechat.jpeg?raw=true)
