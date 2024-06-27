@@ -50,6 +50,13 @@ python3 kfind.py
 cd web && npm install && npm run dev
 ```
 
+## mini-program
+```shell
+cd mimi-program
+```
+
+![mini-program](https://github.com/KMind-Inc/k-Find/blob/main/assets/mini-program.png?raw=true)
+
 ## Contacts
 
 This project is maintained by the KMind team, you can contact us by:

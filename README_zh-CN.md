@@ -49,8 +49,16 @@ python3 kfind.py
 cd web && npm install && npm run dev
 ```
 
+## 小程序
+```shell
+cd mimi-program
+```
+
+![mini-program](https://github.com/KMind-Inc/k-Find/blob/main/assets/mini-program.png?raw=true)
+
 ## 联系我们
 
 本项目由KMind团队维护, 你可以通过如下方式联系我们：
 * 邮箱: developer@kmind.com
+
 ![wechat](https://github.com/KMind-Inc/k-Find/blob/main/assets/wechat.jpeg?raw=true)
